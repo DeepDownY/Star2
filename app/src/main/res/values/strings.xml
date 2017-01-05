@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Star</string>
+    <string name="main_text">My Application</string>
+    <string name="bu_weather">Weather</string>
+    <string name="bu_movie">Movie</string>
+    <string name="bu_shares">Shares</string>
+    <string name="bu_reader">Reader</string>
+    <string name="bu_news">News</string>
+</resources>
